@@ -10,7 +10,7 @@ app_port: 7860
 ## Live Demo
 
 Try the deployed application here:  
-https://huggingface.co/spaces/V1v3kx/pneumonia-detection-system
+https://huggingface.co/spaces/Madan-S1/pneumonia-detection-system
 
 # Pneumonia Detection System
 
@@ -90,7 +90,7 @@ data/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/V1v3kx/pneumonia-detection-system.git
+git clone https://github.com/Madan-S1/pneumonia-detection-system.git
 cd pneumonia-detection-system
 ```
 
@@ -202,7 +202,7 @@ The trained model is saved in the `artifacts/` directory and can be used directl
 
 ## Author
 
-**Vivek Reddy K**  
+**Madan S**  
 B.Tech CSE - Artificial Intelligence and Machine Learning  
 REVA University
 
