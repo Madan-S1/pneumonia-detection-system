@@ -3,6 +3,7 @@ from __future__ import annotations
 from io import BytesIO
 from pathlib import Path
 from PIL import Image
+# pyrefly: ignore [missing-import]
 import gradio as gr
 
 from src.config import ASSETS_DIR
