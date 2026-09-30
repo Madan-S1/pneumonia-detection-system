@@ -3,8 +3,10 @@ title: Pneumonia Detection System
 emoji: 🩺
 colorFrom: orange
 colorTo: white
-sdk: docker
-app_port: 7860
+sdk: gradio
+app_file: app.py
+pinned: false
+license: mit
 ---
 
 ## Live Demo
